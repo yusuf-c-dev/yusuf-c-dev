@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yusuf-c-dev
+- 👋 Hi, I’m @yusufcetinkaya-dev
 - 👀 I’m interested in Game Development and 3D Modelling
 - 🌱 I’m currently learning Game Development on Unity and 3D Modelling on Blender
 - 💞️ I’m looking to collaborate on game development projects
